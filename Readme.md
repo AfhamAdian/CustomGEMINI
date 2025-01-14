@@ -20,8 +20,8 @@ This repository provides a Python-based solution for building a document-based Q
 
 ### **2. Clone the Repository**
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/AfhamAdian/CustomGEMINI.git
+cd CustomGEMINI
 ```
 
 ### **3. Install Dependencies**
@@ -116,11 +116,3 @@ Answer: Databricks is a cloud-based platform for big data analytics and AI devel
 - Explore alternate embedding methods for better accuracy.
 
 ---
-
-## **License**
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## **Contributions**
-Feel free to submit issues or pull requests to improve this project!
